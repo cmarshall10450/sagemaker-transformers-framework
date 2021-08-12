@@ -1,0 +1,13 @@
+{
+	"steps": [
+		{
+			"transformer": "TransformerX",
+			"input": {
+				"filepath": "./data.csv"
+			},
+			"output": {
+				"filepath": "./output.csv"
+			}
+		}
+	]
+}
